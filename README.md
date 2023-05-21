@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
-
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Todo app, save your data in local storage, and has the ability to sign in with your user ID or sign up.
+Don't worry, reloading the page won't reset your filter settings, thanks to useLocation hook.
+- [DEMO LINK](https://Vadym-Prydatok.github.io/react_todo_app_local_storage/)
